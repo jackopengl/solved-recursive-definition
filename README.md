@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-recursive-definition
+<br>
+<p class="ui header product-top-header" title="Recursive definition Solution">Provide a recursive definition of some sequence of numbers. Choose one different from that of any posted thus far. Write a recursive method that given n, computes the nth term of that sequence. Also provide an equivalent iterative implementation. How do the two implementations compare?
